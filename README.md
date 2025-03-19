@@ -3,6 +3,10 @@
 - 🔭 I’m currently working on Mobile Development
 - 🌱 I’m currently learning Swift, Kotlin, and Java
 - 📫 How to reach me: guilhermemotti13@gmail.com
+
+
+![Motti's GitHub stats](https://github-readme-stats.vercel.app/api?username=guimotti25&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
   
 <!--
 **Guimotti25/guimotti25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
