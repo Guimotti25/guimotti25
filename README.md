@@ -5,7 +5,7 @@
 - 📫 How to reach me: guilhermemotti13@gmail.com
 
 
-![Motti's GitHub stats](https://github-readme-stats.vercel.app/api?username=guimotti25&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Motti's GitHub stats](https://github-readme-stats.vercel.app/api?username=guimotti25&show_icons=true&theme=dark)
 
   
 <!--
