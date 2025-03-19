@@ -3,8 +3,6 @@
 - 🔭 I’m currently working on Mobile Development
 - 🌱 I’m currently learning Swift, SwiftUI, Kotlin, and Java.
 
-I have over 6 years of experience in native mobile development, specializing in both Android and iOS. My career began with Android development, where I have greater expertise, focusing on XML and Java, while also being proficient in Kotlin.
-
 Android -> Skills: Android Studio, XML, Java, Kotlin, SharedPreference, Modularização, Room, Firebase, Retrofit, API Rest.
 Architecture: MVVM/MVC/Clean Architecture.
 
