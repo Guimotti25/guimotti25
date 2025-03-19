@@ -1,5 +1,9 @@
-## Hi there 👋
+## Guilherme Motti 
 
+- 🔭 I’m currently working on Mobile Development
+- 🌱 I’m currently learning Swift, Kotlin, and Java
+- 📫 How to reach me: guilhermemotti13@gmail.com
+  
 <!--
 **Guimotti25/guimotti25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
