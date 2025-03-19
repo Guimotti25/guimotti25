@@ -1,7 +1,6 @@
-## Guilherme Motti 
+### Guilherme Motti 
 
-- 🔭 I’m currently working on Mobile Development
-- 🌱 I’m currently learning Swift, SwiftUI, Kotlin, and Java.
+# Mobile Developer
 
 Android -> Skills: Android Studio, XML, Java, Kotlin, SharedPreference, Modularização, Room, Firebase, Retrofit, API Rest.
 Architecture: MVVM/MVC/Clean Architecture.
