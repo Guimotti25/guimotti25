@@ -14,6 +14,10 @@ Architecture: MVVM/MVC/VIPER/Clean Architecture.
   <img align="center" alt="Motti-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
     <img align="center" alt="motti-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 </div>
+<br>
+<p align="start">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guimotti25&layout=compact&theme=gradient" />
+</p>
 
   ##
  
