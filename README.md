@@ -16,7 +16,7 @@ Architecture: MVVM/MVC/VIPER/Clean Architecture.
 </div>
 <br>
 <p align="end">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guimotti25&layout=compact&theme=gradient" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guimotti25&layout=compact&theme=dark" />
 </p>
 
   ##
